@@ -1,5 +1,5 @@
 # MSCS_634_Lab_3
-Lab 3
+
 
 ## Lab Title: Clustering Analysis with K-Means and K-Medoids on the Wine Dataset
 
